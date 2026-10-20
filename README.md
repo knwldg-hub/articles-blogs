@@ -1,4 +1,4 @@
-# articles-blogs
+# Articles / Blogs
 
 Welcome! This repository is a dedicated space where I share architectural patterns, practical insights, and engineering learnings focused on modernizing enterprise data ecosystems.
 
